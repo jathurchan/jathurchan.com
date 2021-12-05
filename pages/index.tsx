@@ -40,7 +40,7 @@ const Home: NextPage = () => {
 
       <footer className={styles.footer}>
         <p>
-          Made with <i>HTML, CSS, Typescript, React</i> and <i> NEXT.JS.</i> Deployed on <i>Vercel</i>.
+          Made with HTML, CSS, Typescript, React and NEXT.JS. Deployed on Vercel.
         </p>
       </footer>
     </div>
