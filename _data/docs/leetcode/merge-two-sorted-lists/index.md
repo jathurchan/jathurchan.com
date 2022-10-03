@@ -1,18 +1,16 @@
 ---
 date: 2022-10-01
-id: merge-two-sorted-lists
 title: 21. Merge Two Sorted Lists
 description:
-    Merge the 2 sorted linked lists in a one sorted linked list.
-difficulty: easy
+    Merge 2 sorted linked lists in a 1 sorted linked list.
+difficulty:
+    - easy
 runtime: 20.51 # faster than (in %)
 memory usage: 10.37    # less than (in %)
-topic:
-    - linkedList
+dsa:    # Data Structures and Algorithms (refer to DSA.yml)
+    - linked-lists
     - recursion
 ---
-
-
 
 ```python
 # Definition for singly-linked list.
