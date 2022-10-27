@@ -26,8 +26,9 @@ const Home: NextPage = () => {
         <div className={styles.socialNav}>
           <ul>
             <li><a href="http://github.com/jathurchan" className={styles.github}>GitHub</a></li>
+            <li><a href="https://www.linkedin.com/in/jathurchan/" className={styles.medium}>LinkedIn</a></li>
             <li><a href="http://twitter.com/jathurchan" className={styles.twitter}>Twitter</a></li>
-            <li><a href="http://jathurchan.medium.com" className={styles.medium}>Medium</a></li>
+            
           </ul>
         </div>
 
