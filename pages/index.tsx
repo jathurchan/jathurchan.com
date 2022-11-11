@@ -33,7 +33,7 @@ const Home: NextPage = () => {
         </div>
 
         <p className={styles.description}>
-          <i>New version (v2) coming on  Nov 10 2022 😊</i>
+          <i>New version (v2) coming on Jan 1 2023 😊</i>
         </p>
 
         
